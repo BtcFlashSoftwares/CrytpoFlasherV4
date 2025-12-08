@@ -20,7 +20,7 @@
 This tool is intended for educational and research purposes **only**. The transactions generated are **flash** and **cannot** be used to send actual Bitcoin or USDT. Attempting to use this tool for malicious purposes, including fraud, could result in legal consequences.
 
 ### Contact:
-For licensing and more details, contact via Telegram:|| [@CryptoFlashG]||(https://t.me/CryptoFlashG)
+For licensing and more details, contact via Telegram:| [@CryptoFlashG]|(https://t.me/CryptoFlashG)
 
 ### Disclaimer:
 The developer is **not responsible** for any misuse of this software. This tool is for **educational purposes only**. Always abide by the laws and regulations of your jurisdiction when using software related to blockchain technologies.
