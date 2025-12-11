@@ -22,5 +22,4 @@ This tool is intended for educational and research purposes **only**. The transa
 ### Contact:
 For licensing and more details, contact via Telegram: [@CryptoFlasherG](https://t.me/CryptoFlashG)
 
-### Disclaimer:
-The developer is **not responsible** for any misuse of this software. This tool is for **educational purposes only**. Always abide by the laws and regulations of your jurisdiction when using software related to blockchain technologies.
+
