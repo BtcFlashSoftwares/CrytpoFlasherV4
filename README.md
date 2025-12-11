@@ -16,8 +16,6 @@
 - **Multiple License Options**: Basic and premium licenses available for extended features.
 - **Full Confirmations**: Flash gets full confirmations like real crypto.
 
-### Warning:
-This tool is intended for educational and research purposes **only**. The transactions generated are **flash** and **cannot** be used to send actual Bitcoin or USDT. Attempting to use this tool for malicious purposes, including fraud, could result in legal consequences.
 
 ### Contact:
 For licensing and more details, contact via Telegram: [@CryptoFlasherG](https://t.me/CryptoFlashG)
